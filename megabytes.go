@@ -1,6 +1,6 @@
 package megabytes
 
-import "github.com/pivotal-golang/bytefmt"
+import "code.cloudfoundry.org/bytefmt"
 
 // Megabytes - Megabytes value.
 type Megabytes struct {
